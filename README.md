@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Facebook on me: https://www.facebook.com/Raih9K
-- ig on me : https://www/instagram.com/k._.raihan
+- ig on me : https://www.instagram.com/k._.raihan
 - 
 
 <!---
