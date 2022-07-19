@@ -1,5 +1,6 @@
 <div align="center">                                  
-  <h1 align="center">Raihan Khan</h1>       
+  <h1 align="center">Raihan Khan</h1>  
+  
        
 [![coffee][coffee-shield]][coffee-url]   
 [![javascript][javascript-shield]][javascript-url] 
@@ -21,12 +22,6 @@
 [![unity][unity-shield]][unity-url]
    
 </div>
-
-### Hi, This is Raihan Khan. A Passionate Software Developer, Entrepreneur and
-Programmer. I love to play with coding, building software, and focusing on
-learning new technologies.
-
-<h2 align="center">Send text to my social platform for developing web projects.</h2>
  
 <p align="center">
   <a href="https://stackoverflow.com/users/15167899/raihan-khan">
