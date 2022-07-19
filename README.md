@@ -194,9 +194,9 @@ learning new technologies.
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
-    <a href="https://github.com/k-raihan/k-raihan"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=k-raihan&theme=light"/></a>
-    <a href="https://github.com/k-raihan/k-raihan"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=k-raihan&show_icons=true" width=55%/></a>
-    <a href="https://github.com/k-raihan/k-raihan"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-raihan&layout=compact&langs_count=8" width=40%/></a>
+    <a href="https://github.com/k-raihan/"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=k-raihan&theme=light"/></a>
+    <a href="https://github.com/k-raihan/"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=k-raihan&show_icons=true" width=55%/></a>
+    <a href="https://github.com/k-raihan/"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-raihan&layout=compact&langs_count=8" width=40%/></a>
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
