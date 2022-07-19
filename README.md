@@ -1,6 +1,4 @@
 
-
-
 <!-- Nothing weird to see here -->
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
@@ -9,14 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme.andyruwruw.com/api/top-played">
-</p>
- 
-<p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
-</p>
 
 
 
