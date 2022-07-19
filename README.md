@@ -158,30 +158,14 @@ learning new technologies.
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mail:isteyaq.raihan@gmail.com)
 <br />
 
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Engr.Saad.2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Engr.Saad2/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/engr_saad2/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engr-saad/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/949952532250259457)<br>
-![](https://komarev.com/ghpvc/?username=EngrSaad2)
-
 </div>
-Email: saad@triangeltech.com<br>
-Website: https://engr-saad.com <br>
-LinkedIn: https://www.linkedin.com/in/engr-saad/<br>
-Facebook: https://www.facebook.com/Engr.Saad.2/<br>
-Company WEB: https://triangletech.com.bd/ <br>
-WhatsApp: +8801904654712<br>
-
---------
 
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
-    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=EngrSaad2&theme=light"/></a>
-    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EngrSaad2&show_icons=true" width=55%/></a>
-    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrSaad2&layout=compact&langs_count=8" width=40%/></a>
+    <a href="https://github.com/k-raihan/k-raihan"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=k-raihan&theme=light"/></a>
+    <a href="https://github.com/k-raihan/k-raihan"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=k-raihan&show_icons=true" width=55%/></a>
+    <a href="https://github.com/k-raihan/k-raihan"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-raihan&layout=compact&langs_count=8" width=40%/></a>
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
@@ -192,7 +176,7 @@ WhatsApp: +8801904654712<br>
   <h3>Al Quran With English and Bengali Translation</h3>
   <br/>
   <p align="center">
-    Watch me, <a href="https://www.youtube.com/c/EngrSaad">Engr Saad</a> on YouTube!
+    Watch me, <a href="https://www.youtube.com/c/k-raihan">Raihan Khan</a> on YouTube!
   </p>
 </details>
 
@@ -286,7 +270,4 @@ WhatsApp: +8801904654712<br>
 [raspberry-url]: https://www.raspberrypi.org/
 
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black
-[coffee-url]: https://www.buymeacoffee.com/EngrSaad
-<!-- https://paypal.me/raselhasandurjoy@gmail.com -->
-<!-- more badges: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
-
+[coffee-url]: https://www.buymeacoffee.com/KhanRaihan
