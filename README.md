@@ -1,5 +1,10 @@
 <div align="center">                                  
   <h1 align="center">Raihan Khan</h1>  
+  A Passionate Software Developer, Entrepreneur and
+Programmer. I love to play with coding, building software, and focusing on
+learning new technologies.
+
+<h2 align="center">Send text to my social platform for developing web projects.</h2>
   
        
 [![coffee][coffee-shield]][coffee-url]   
